@@ -35,3 +35,9 @@ html {
     @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white
   }
 }
+
+.logo {
+  color: #5651e5;
+  font-family: "Lucida Handwriting", "Courier New", monospace;
+  font-size: xxx-large;
+}
